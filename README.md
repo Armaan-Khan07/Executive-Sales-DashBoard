@@ -2,7 +2,7 @@
 
 > An interactive, dark-themed business intelligence dashboard built for C-suite decision-making — designed for CEOs and CFOs to explore revenue, profitability, and customer insights in real time.
 
-🔗 **Live Demo:** [https://armaan24905.github.io/executive-sales-dashboard/]([https://github.com/armaan24905/executive-sales-dashboard.git])
+🔗 **Live Demo:** [https://armaan-khan07.github.io/Executive-Sales-DashBoard/]([https://github.com/Armaan-khan07/executive-sales-dashboard.git])
 *(will be live once GitHub Pages is enabled on the repo)*
 
 ![Dashboard Preview](screenshot.png)
